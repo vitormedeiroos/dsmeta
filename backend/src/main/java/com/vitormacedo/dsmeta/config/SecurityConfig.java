@@ -1,3 +1,4 @@
+/*Liberação do Cors -  Vai fazer com que o Back end possa acessar uma aplicação que está em outro local*/
 package com.vitormacedo.dsmeta.config;
 
 import java.util.Arrays;
